@@ -11,7 +11,7 @@ echo -e "\033[91;1m ketik sesuai nama yg kamu mau :\033[0m \033[93m \033[0m"
 echo -e " "
 read -p "SUBDOMAIN :  " domen
 echo -e ""
-DOMAIN=zvx.my.id
+DOMAIN=vvpnstore.my.id
 sub=${domen}
 dns=${sub}.vvpnstore.my.id
 #(</dev/urandom tr -dc a-z0-9 | head -c5)
